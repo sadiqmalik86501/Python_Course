@@ -10,10 +10,10 @@ def Ai_Chat_Bot(message):
         "content":message
     })
 
-    r=requests.post("http://localhost:11434/api/chat ",
+    r=requests.post("http://localhost:11434/api/chat",
                     json={
                         "model":"gemma3",
-                        "message":message,
+                        "messages":messages,
                         "stream":False
                     })
     response=r.json()["message"]["content"]
