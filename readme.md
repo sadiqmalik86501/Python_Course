@@ -89,10 +89,9 @@ This Course Is Divided into Several Chapter Each Focusing on Different Aspects o
 
 ## Projects 1:
 https://github.com/sadiqmalik86501/Python_Course/tree/main/19_Hand_on_python_project
-
-
-## Project:2
+https://github.com/sadiqmalik86501/Python_Course/blob/main/simple_project/main_1.py
 https://github.com/sadiqmalik86501/Python_Course/tree/main/Coder_of_mumbi
+
 
 ## Problem Sets
 Each chapter contains problem sets to test your understanding and to practice coding. The problem sets include various challenges and exercises relevant to the chapter's content.
