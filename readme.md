@@ -1,8 +1,9 @@
 ## 🔗🌟 Awesome Python Course
 Here Is a Full Python Course Basice to Advance And Mini Project In This Course Like: AI Chat Boat and Pdf Merger etc.
 
-## 🎯You Can Learn from This Chanel for Free And Paid:
+## 🎯You Can Learn from This Chanel  Free And Paid:
  https://goharry.in/python
+ @CodeWithHarry
 
  ## 🔗Chapters
 This Course Is Divided into Several Chapter Each Focusing on Different Aspects of python Programming 
